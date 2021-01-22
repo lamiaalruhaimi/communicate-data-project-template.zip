@@ -1,4 +1,4 @@
-Effects of Loan Characterics on Borrower's APR
+
 
 
 Effects of Loan Characterics on Borrower's APR
